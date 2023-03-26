@@ -1,0 +1,11 @@
+Pre fungovanie aplikácie musím mať nainštalovaný
+Angular CLI: 15.2.3
+Node: 18.15.0
+npm install -g @angular/cli - nainštaluje aktuálnu verziu angularu
+npm install -g node@version - nainštalujem konkrétnu verziu node
+
+
+
+
+
+
